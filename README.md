@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a postdoctoral fellow at the NIH. I use AI and medical imaging to study infectious diseases.
+
+If you'd like to get in contact with me or learn more about my background, I would be happy to connect on LinkedIn:
+https://www.linkedin.com/in/wtchu/
+
 <!--
 **wtchu8/wtchu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
