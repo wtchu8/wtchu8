@@ -1,4 +1,4 @@
-### Hi there 👋
+# Winston T. Chu, Ph.D.
 
 I am a postdoctoral fellow at the NIH. I love all things imaging, AI, and medicine.
 
