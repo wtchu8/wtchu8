@@ -1,10 +1,10 @@
 # Winston T. Chu, Ph.D.
 
-I am a postdoctoral fellow at the NIH. I love all things imaging, AI, and medicine.
+I am a Data Scientist at the NIH. I love all things imaging, AI, and medicine.
 
-- 🔭 I’m currently working on a MONAI/PyTorch pipeline for deep learning organ segmentation of chest CT images
-- 🌱 I’m currently learning how to tune self-supervised tasks to improve deep learning organ segmentation using unlabeled CT scans
-- 👯 I’m looking to collaborate on infectious disease imaging datasets
+- 🔭 I’m currently working on a MONAI/PyTorch workflow for deep learning organ/tissue segmentation of chest CT images
+- 🌱 I’m currently learning how to tune self-supervised tasks to improve deep learning organ/tissue segmentation using unlabeled CT scans
+- 👯 I’m looking to collaborate on infectious disease imaging and AI research
 - 📫 How to reach me: I would be happy to connect on LinkedIn: https://www.linkedin.com/in/wtchu/
 - ⚡ Fun fact: I play the ukulele in my free time
 
